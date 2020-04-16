@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Telephone Book</string>
+    <string name="text_developer_name">Andreas Mattes</string>
+    <string name="btn_text">INSERT</string>
+    <string name="error_message">The name and the number must conatin a valid input.</string>
+</resources>
